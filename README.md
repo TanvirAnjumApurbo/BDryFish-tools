@@ -4,7 +4,9 @@ Scripts that reproduce the derived files of the **BDryFish** dataset from its fu
 resolution images, and check a download against the published checksums.
 
 - Dataset: BDryFish, Science Data Bank, https://doi.org/10.57760/sciencedb.25907 (CC BY 4.0)
-- Data article: Data in Brief (under review)
+- Data article: T.A. Apurbo, K.F. Ahammed, M. Abdullah, M. Islam, M.H. Belali, *BDryFish: A Smartphone
+  Image Dataset of Dried Fish (Shutki) Trade Categories from Bangladeshi Markets*, Data in Brief,
+  article 113359 (2026), https://doi.org/10.1016/j.dib.2026.113359
 
 ## Install
 
